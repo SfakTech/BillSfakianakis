@@ -6,7 +6,7 @@
 🚀 Building my portfolio and looking for my first opportunity as a junior web developer.  
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Bill%20Sphakianakes](https://www.linkedin.com/in/bill-sphakianakes-2b145b308/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bill-sphakianakes-2b145b308/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vsphakianakes@gmail.com)  
 
 ## 💻 Tech Stack:
