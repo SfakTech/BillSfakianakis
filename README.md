@@ -1,4 +1,4 @@
-```md
+
 # :dizzy: About Me:
 :wave: Hi, I'm Vasileios Sfakianakis<br>:mortar_board: Final-year Web Design & Development student at IEK Omiros.<br>:computer: Passionate about building clean, minimal, and user-friendly websites with HTML, CSS, JavaScript, and PHP.<br>:seedling: Currently expanding my skills in backend development — working toward becoming a full-stack developer.<br>:rocket: Actively building my portfolio and seeking my first opportunity as a junior web developer.
 
